@@ -1,0 +1,369 @@
+
+@media (max-width: 1690.98px) {
+    .login-box {
+        padding-left: 50px;
+    }
+
+
+    #map2 {
+        height: 400px;
+    }
+
+}
+
+@media (max-width: 1199.98px) {
+
+    .event-col {
+        -ms-flex-order: 2;
+        order: 2;
+    }
+    .calender-col {
+        -ms-flex-order: 1;
+        order: 1;
+    }
+
+    .login-box {
+        padding-left: 50px;
+    }
+    .owl-main .item .slide-title {
+        max-width: 75%;
+    }
+
+    .exhibitionform {
+        width: unset;
+        padding: 0;
+        background-color: #fff;
+        border-radius: 4px;
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .exhibition-page {
+
+    }
+    .exhibition-page .bgimg,
+    .exhibition-page:before {
+        display: none;
+
+    }
+
+
+    .exibition-body.head-no-border .nav-section::before {
+        display: block;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .location-single .location-desc {
+        width: 50%;
+    }
+
+    .gm-style .gm-style-iw-c {
+        max-width: 330px !important;
+    }
+
+    #map2 {
+        height: 600px;
+    }
+
+
+    .item-login span{
+        display: none;
+    }
+
+    .artist-project {
+        display: block;
+    }
+
+    .artist-project .artist-detail {
+        margin-bottom: 30px;
+    }
+
+    ol.artup-list li {
+        width: calc(50% - 30px);
+    }
+
+    ol.list-title-color li {
+        margin-top: 0px !important;
+        margin-bottom: 15px !important;
+    }
+    ol.list-title-color   {
+        margin-top: 15px !important;
+        margin-bottom: 15px !important;
+    }
+
+    section.main-slide, .owl-main .item {
+        min-height: 275px;
+        height: calc(100vh - 515px);
+    }
+    .login-box {
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .footer-box .copyright {
+        margin-bottom: 35px;
+        margin-top: 12px;
+    }
+
+
+    .owl-main .item .slide-title {
+        max-width: 100%;
+    }
+
+    ol.artup-banners li {
+        margin-bottom: 15px;
+    }
+
+    .project-section .project-detail {
+        padding: 20px;
+    }
+    .project-section .project-img {
+        padding: 15px 0;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .location-single .location-desc {
+        width: 50%;
+    }
+
+    #map2 {
+        height: 600px;
+    }
+
+
+    #inner-project-map {
+        height: 400px;
+        margin-top: 30px;
+
+    }
+
+    .owl-carousel .owl-item {
+        position: relative;
+    }
+
+    ol.artup-list li {
+        width: calc(100% - 30px);
+    }
+
+    .login-box {
+        padding: 25px 10px;
+        height: unset;
+        min-height: unset;
+        display: block;
+        -ms-flex-pack: center;
+        justify-content: center;
+        -ms-flex-align: unset;
+        align-items: unset;
+    }
+
+    .login-box > div {
+        width: 100%;
+    }
+
+    .login-form {
+        padding: 0;
+        width: 100%;
+        min-height: unset;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+
+
+    .login-box .logo-box a {
+        padding: 0;
+        -webkit-transform: scale3d(1, 1, 1);
+        transform: scale3d(1, 1, 1);
+    }
+
+    .auth-form:before {
+        display: none;
+    }
+
+    .auth-form .bgimg {
+        display: none;
+    }
+
+    .reg-bottom {
+        display: block;
+    }
+
+    .reg-bottom .btn-login{
+        margin-top: 20px;
+    }
+
+    .h-hash {
+        background-image:none;
+    }
+
+    .navigation-footer > ul > li {
+        margin-bottom: 20px;
+        -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+    }
+    .navigation-footer li span {
+        margin-bottom: 3px;
+    }
+    .connect-box h1 {
+        line-height: 1;
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+
+    .arist-header {
+        flex-direction: column;
+    }
+
+    .arist-header-section {
+        padding: 20px 0 10px 0;
+    }
+    .artist-center{
+        width: 100%;
+        -ms-flex-order: 1;
+        order: 1;
+    }
+
+    .artist-social {
+        width: 100%;
+        margin-top: 25px;
+        -ms-flex-order: 2;
+        order: 2;
+    }
+
+    .artist-contact {
+        width: 100%;
+        -ms-flex-order: 3;
+        order: 3;
+    }
+
+    .artist-social ul,
+    .artist-contact ul {
+        -ms-flex-pack: center;
+        justify-content: center;
+    }
+
+    .blog-article {
+    }
+
+    .artist-about {
+        padding: 0 0 10px 0;
+        margin-top: 30px;
+        width: 100%;
+    }
+    .artist-about .list-bts {
+        margin-top: 30px;
+        padding-top: 20px;
+        position: relative;
+        -ms-flex-pack: start;
+        justify-content: start;
+        /* bottom: 10px; */
+        right: unset;
+        border-top: 1px solid #ccc;
+    }
+
+    .profile-section {
+        padding: 30px 15px;
+    }
+
+    .artist-single .artist-avatar {
+        margin: auto;
+    }
+
+    a.logo svg,
+    .top-nav-street .logo a{
+        font-size: 28px;
+    }
+
+}
+
+@media (max-width: 575.98px) {
+
+    a.logo svg,
+    .top-nav-street .logo a svg{
+        height: 60px;
+        width: 240px;
+    }
+
+    a.logo svg,
+    .top-nav-street .logo a{
+        font-size: 24px;
+    }
+
+    .location-single {
+
+        display: block;
+
+    }
+    .location-single .location-desc {
+        width: 100%;
+        height: 341px;
+        border-right: none;
+        border-bottom: 1px solid #e1e1e1;
+    }
+    .location-single .location-desc img {
+        border-radius: 8px;
+        object-fit: cover;
+        width: 100%;
+        /* max-width: 350px; */
+        max-height: 221px;
+    }
+
+    .event-item .event-item-date {
+        border-right: 1px solid transparent;
+    }
+
+    #map2 {
+        height: 600px;
+    }
+
+    .event-btns .btn:lang(ka) {
+        font-family: 'Helvetica Neue';
+        font-weight: 500;
+        padding: 3px 9px;
+        font-size: 12px;
+        letter-spacing: unset;
+        border-radius: 4px;
+        opacity: 1;
+    }
+
+
+}
+
+@media (max-width: 1310.98px) {
+
+    .top-nav ul.topmenu-top,
+    .search-head,
+    .art-menu .main-nav,
+    .user-nav .btn-signin,
+    .user-nav .btn-register,
+    .main-dot {
+        display: none;
+    }
+
+    .user-nav {
+
+    }
+
+    .user-nav .user-svg-mobile svg {
+        display: block;
+    }
+
+    a.logo {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .cart-nav li.cart-item a .quantity-span {
+        position: absolute;
+        top: 0;
+        right: 10px;
+    }
+
+    .mobilebar {
+        display: -ms-flexbox;
+        display: flex;
+    }
+}
+
+
+
